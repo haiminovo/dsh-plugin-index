@@ -4,18 +4,22 @@ A curated [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 plugin market index in format 1. The index is rebuilt from public npm metadata
 every six hours.
 
-## Index URL
+## Index URLs
 
 ```text
+https://cdn.jsdelivr.net/gh/haiminovo/dsh-plugin-index@main/index.json
 https://haiminovo.github.io/dsh-plugin-index/index.json
 ```
+
+Use the jsDelivr URL first. The GitHub Pages URL is a direct mirror. Both return
+JSON without a redirect.
 
 Open DSH, then:
 
 1. Plugins
 2. Discover
 3. Index sources
-4. Add the URL above
+4. Add the jsDelivr URL above
 
 ## How it works
 
