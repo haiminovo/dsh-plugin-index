@@ -1,0 +1,14 @@
+{
+  "name": "haimin-dsh-plugin-index",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Curated DSH plugin market index in format 1.",
+  "engines": {
+    "node": ">=24.9.0"
+  },
+  "scripts": {
+    "build": "node build-index.mjs",
+    "check": "node --check build-index.mjs"
+  }
+}
