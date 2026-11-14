@@ -2198,16 +2198,6 @@
       "name": "dsh-mobile-plugin",
       "versions": [
         {
-          "version": "0.5.6",
-          "publishTimestamp": 1793338070,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.0"
-          }
-        },
-        {
           "version": "0.5.8",
           "publishTimestamp": 1793380553,
           "source": {
@@ -2596,6 +2586,16 @@
           "engines": {
             "dsh": ">=0.2.0"
           }
+        },
+        {
+          "version": "0.5.50",
+          "publishTimestamp": 1794610464,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0"
+          }
         }
       ],
       "description": "Mobile API (/api/mobile/v1) and relay client for the DSH mobile app — desktop profile build (dsh 0.2.x, peers resolved by the host)",
@@ -2604,7 +2604,7 @@
       },
       "homepage": "https://github.com/WNLUO/dsh-mobile-plugin#readme",
       "dist-tags": {
-        "latest": "0.5.49"
+        "latest": "0.5.50"
       },
       "metadata": {
         "keywords": [
