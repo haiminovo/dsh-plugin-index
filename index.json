@@ -995,426 +995,6 @@
       }
     },
     {
-      "name": "dsh-better-sidebar",
-      "versions": [
-        {
-          "version": "0.10.2",
-          "publishTimestamp": 1786634669,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6"
-          }
-        },
-        {
-          "version": "0.10.3",
-          "publishTimestamp": 1786641099,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6"
-          }
-        },
-        {
-          "version": "0.11.0",
-          "publishTimestamp": 1786692400,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6"
-          }
-        },
-        {
-          "version": "0.12.0-beta.1",
-          "publishTimestamp": 1786725033,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6"
-          }
-        },
-        {
-          "version": "0.12.1",
-          "publishTimestamp": 1786725504,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6"
-          }
-        },
-        {
-          "version": "0.12.2",
-          "publishTimestamp": 1786801544,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6"
-          }
-        },
-        {
-          "version": "0.12.3",
-          "publishTimestamp": 1786898173,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6"
-          }
-        },
-        {
-          "version": "0.13.0",
-          "publishTimestamp": 1786985206,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6"
-          }
-        },
-        {
-          "version": "0.13.1",
-          "publishTimestamp": 1787060983,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.7"
-          }
-        },
-        {
-          "version": "0.14.0",
-          "publishTimestamp": 1787163082,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.8"
-          }
-        },
-        {
-          "version": "0.15.0",
-          "publishTimestamp": 1787325785,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.8"
-          }
-        },
-        {
-          "version": "0.15.1",
-          "publishTimestamp": 1787392077,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.8"
-          }
-        },
-        {
-          "version": "0.15.2",
-          "publishTimestamp": 1787412941,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.8"
-          }
-        },
-        {
-          "version": "0.16.0",
-          "publishTimestamp": 1787587433,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.8"
-          }
-        },
-        {
-          "version": "0.16.1",
-          "publishTimestamp": 1787628123,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.8"
-          }
-        },
-        {
-          "version": "0.17.1",
-          "publishTimestamp": 1787904386,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.8"
-          }
-        },
-        {
-          "version": "0.18.0-alpha.0",
-          "publishTimestamp": 1788104887,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.2-alpha.2"
-          }
-        },
-        {
-          "version": "0.18.0",
-          "publishTimestamp": 1788435652,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.2-rc.1"
-          }
-        },
-        {
-          "version": "0.18.1",
-          "publishTimestamp": 1788871676,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.2-rc.1"
-          }
-        },
-        {
-          "version": "0.19.0-alpha.1",
-          "publishTimestamp": 1788970362,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.5-alpha.2"
-          }
-        },
-        {
-          "version": "0.19.0",
-          "publishTimestamp": 1789023199,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.5-rc.1"
-          }
-        },
-        {
-          "version": "0.19.1",
-          "publishTimestamp": 1789116897,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.5-rc.1"
-          }
-        },
-        {
-          "version": "0.21.0-rc.1",
-          "publishTimestamp": 1790178636,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.7-rc.1"
-          }
-        },
-        {
-          "version": "0.21.1",
-          "publishTimestamp": 1790179874,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.7-rc.1"
-          }
-        },
-        {
-          "version": "0.22.0",
-          "publishTimestamp": 1790520046,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.7-rc.1"
-          }
-        },
-        {
-          "version": "0.22.1",
-          "publishTimestamp": 1790567286,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.7-rc.1"
-          }
-        },
-        {
-          "version": "0.24.1",
-          "publishTimestamp": 1790609858,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.0-rc.1"
-          }
-        },
-        {
-          "version": "0.25.0",
-          "publishTimestamp": 1791567826,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.0-rc.2"
-          }
-        },
-        {
-          "version": "0.26.0",
-          "publishTimestamp": 1791904117,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.0-rc.2"
-          }
-        },
-        {
-          "version": "0.26.1",
-          "publishTimestamp": 1792118853,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.0-rc.2"
-          }
-        },
-        {
-          "version": "0.28.0-alpha.0",
-          "publishTimestamp": 1792211424,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.1-alpha.5"
-          }
-        },
-        {
-          "version": "0.28.0",
-          "publishTimestamp": 1792218651,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.1-rc.1"
-          }
-        },
-        {
-          "version": "0.28.1",
-          "publishTimestamp": 1793008660,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.1-rc.1"
-          }
-        },
-        {
-          "version": "0.28.2",
-          "publishTimestamp": 1793114071,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.1-rc.1"
-          }
-        },
-        {
-          "version": "0.30.0",
-          "publishTimestamp": 1793804506,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.2-rc.1"
-          }
-        },
-        {
-          "version": "0.30.1",
-          "publishTimestamp": 1793848027,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.2-rc.1"
-          }
-        },
-        {
-          "version": "0.31.0",
-          "publishTimestamp": 1794404920,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.2-rc.1"
-          }
-        },
-        {
-          "version": "0.31.1",
-          "publishTimestamp": 1794406078,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.2-rc.1"
-          }
-        },
-        {
-          "version": "0.32.0",
-          "publishTimestamp": 1794468141,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.2-rc.1"
-          }
-        },
-        {
-          "version": "0.32.1",
-          "publishTimestamp": 1794491586,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.2.2-rc.2"
-          }
-        }
-      ],
-      "description": "Better Sidebar for DSH — file tree, editor, changes, tasks and side chat in one column, separate for every conversation. Configure it in Settings → Side card (bottom-left). Also exposes a service other plugins use to register sidebar tabs and file viewers",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
-      },
-      "dist-tags": {
-        "beta": "0.12.0-beta.1",
-        "alpha": "0.28.0-alpha.0",
-        "latest": "0.32.1"
-      },
-      "metadata": {
-        "keywords": [],
-        "sortKeys": {
-          "downloads": 96487
-        }
-      }
-    },
-    {
       "name": "dsh-remote",
       "versions": [
         {
@@ -1966,16 +1546,6 @@
       "name": "dsh-mobile-plugin",
       "versions": [
         {
-          "version": "0.5.11",
-          "publishTimestamp": 1793546869,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.0"
-          }
-        },
-        {
           "version": "0.5.12",
           "publishTimestamp": 1793618184,
           "source": {
@@ -2364,6 +1934,16 @@
           "engines": {
             "dsh": ">=0.2.0"
           }
+        },
+        {
+          "version": "0.5.54",
+          "publishTimestamp": 1794696487,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0"
+          }
         }
       ],
       "description": "Mobile API (/api/mobile/v1) and relay client for the DSH mobile app — desktop profile build (dsh 0.2.x, peers resolved by the host)",
@@ -2372,7 +1952,7 @@
       },
       "homepage": "https://github.com/WNLUO/dsh-mobile-plugin#readme",
       "dist-tags": {
-        "latest": "0.5.53"
+        "latest": "0.5.54"
       },
       "metadata": {
         "keywords": [
@@ -3642,16 +3222,6 @@
       "name": "@michengai/dsh-skills-manager",
       "versions": [
         {
-          "version": "1.2.4",
-          "publishTimestamp": 1792249483,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "0.2.0-rc.1 || 0.2.0-rc.2 || 0.2.1-rc.1 || 0.2.1-rc.2"
-          }
-        },
-        {
           "version": "1.2.5",
           "publishTimestamp": 1792251360,
           "source": {
@@ -4040,6 +3610,16 @@
           "engines": {
             "dsh": ">=0.2.0-rc.1 <0.3.0-0"
           }
+        },
+        {
+          "version": "1.4.9",
+          "publishTimestamp": 1794701795,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.1 <0.3.0-0"
+          }
         }
       ],
       "description": "DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH",
@@ -4049,7 +3629,7 @@
       },
       "homepage": "https://github.com/MichengAI/dsh-skills-manager#readme",
       "dist-tags": {
-        "latest": "1.4.8"
+        "latest": "1.4.9"
       },
       "metadata": {
         "keywords": [
@@ -8421,26 +8001,6 @@
       "name": "dsh-claude-style",
       "versions": [
         {
-          "version": "0.18.2",
-          "publishTimestamp": 1792599346,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.1.5-rc.1"
-          }
-        },
-        {
-          "version": "0.18.3-dev.41",
-          "publishTimestamp": 1792681676,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.1.5-rc.1"
-          }
-        },
-        {
           "version": "0.18.3",
           "publishTimestamp": 1792682280,
           "source": {
@@ -8819,6 +8379,26 @@
           "engines": {
             "dsh": ">=0.2.2-rc.1"
           }
+        },
+        {
+          "version": "0.21.2",
+          "publishTimestamp": 1794708095,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1"
+          }
+        },
+        {
+          "version": "0.21.2-dev.64",
+          "publishTimestamp": 1794708101,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1"
+          }
         }
       ],
       "description": "Claude Code Desktop theme for DeepSeek Harness (dsh) web GUI — visual & interaction overhaul",
@@ -8828,8 +8408,8 @@
       },
       "homepage": "https://github.com/Nwflower/dsh-claude-style#readme",
       "dist-tags": {
-        "dev": "0.21.1-dev.62",
-        "latest": "0.21.1"
+        "dev": "0.21.2-dev.64",
+        "latest": "0.21.2"
       },
       "metadata": {
         "keywords": [
@@ -11351,6 +10931,16 @@
           "engines": {
             "dsh": ">=0.2.0-rc.2 <0.3.0 || 0.2.1-rc.1 || 0.2.1-rc.2 || 0.2.1-rc.3 || 0.2.1-rc.4 || 0.2.1-rc.5 || 0.2.2-rc.1 || 0.2.2-rc.2"
           }
+        },
+        {
+          "version": "0.12.4",
+          "publishTimestamp": 1794712451,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.2 || >=0.2.1-rc.1 || >=0.2.2-rc.1"
+          }
         }
       ],
       "description": "DeepSeek Harness 的 soul.md 风格人设 + 长期记忆插件：设置页输入人设卡名称和内容即可，文件由插件自动管理；可按工作区指定人设、聊天框可给会话单独切人设；AI 可自行演化人设与记忆（soul_read/soul_update/memory_*）。",
@@ -11359,7 +10949,7 @@
       },
       "homepage": "https://github.com/Scorp1o117/dsh-soul-md",
       "dist-tags": {
-        "latest": "0.12.3"
+        "latest": "0.12.4"
       },
       "metadata": {
         "keywords": [
@@ -15173,6 +14763,426 @@
           "audio",
           "comfyui"
         ],
+        "sortKeys": {
+          "downloads": 0
+        }
+      }
+    },
+    {
+      "name": "dsh-better-sidebar",
+      "versions": [
+        {
+          "version": "0.10.2",
+          "publishTimestamp": 1786634669,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6"
+          }
+        },
+        {
+          "version": "0.10.3",
+          "publishTimestamp": 1786641099,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6"
+          }
+        },
+        {
+          "version": "0.11.0",
+          "publishTimestamp": 1786692400,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6"
+          }
+        },
+        {
+          "version": "0.12.0-beta.1",
+          "publishTimestamp": 1786725033,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6"
+          }
+        },
+        {
+          "version": "0.12.1",
+          "publishTimestamp": 1786725504,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6"
+          }
+        },
+        {
+          "version": "0.12.2",
+          "publishTimestamp": 1786801544,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6"
+          }
+        },
+        {
+          "version": "0.12.3",
+          "publishTimestamp": 1786898173,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6"
+          }
+        },
+        {
+          "version": "0.13.0",
+          "publishTimestamp": 1786985206,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6"
+          }
+        },
+        {
+          "version": "0.13.1",
+          "publishTimestamp": 1787060983,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.7"
+          }
+        },
+        {
+          "version": "0.14.0",
+          "publishTimestamp": 1787163082,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.8"
+          }
+        },
+        {
+          "version": "0.15.0",
+          "publishTimestamp": 1787325785,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.8"
+          }
+        },
+        {
+          "version": "0.15.1",
+          "publishTimestamp": 1787392077,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.8"
+          }
+        },
+        {
+          "version": "0.15.2",
+          "publishTimestamp": 1787412941,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.8"
+          }
+        },
+        {
+          "version": "0.16.0",
+          "publishTimestamp": 1787587433,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.8"
+          }
+        },
+        {
+          "version": "0.16.1",
+          "publishTimestamp": 1787628123,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.8"
+          }
+        },
+        {
+          "version": "0.17.1",
+          "publishTimestamp": 1787904386,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.8"
+          }
+        },
+        {
+          "version": "0.18.0-alpha.0",
+          "publishTimestamp": 1788104887,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.2-alpha.2"
+          }
+        },
+        {
+          "version": "0.18.0",
+          "publishTimestamp": 1788435652,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.2-rc.1"
+          }
+        },
+        {
+          "version": "0.18.1",
+          "publishTimestamp": 1788871676,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.2-rc.1"
+          }
+        },
+        {
+          "version": "0.19.0-alpha.1",
+          "publishTimestamp": 1788970362,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.5-alpha.2"
+          }
+        },
+        {
+          "version": "0.19.0",
+          "publishTimestamp": 1789023199,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.5-rc.1"
+          }
+        },
+        {
+          "version": "0.19.1",
+          "publishTimestamp": 1789116897,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.5-rc.1"
+          }
+        },
+        {
+          "version": "0.21.0-rc.1",
+          "publishTimestamp": 1790178636,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.7-rc.1"
+          }
+        },
+        {
+          "version": "0.21.1",
+          "publishTimestamp": 1790179874,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.7-rc.1"
+          }
+        },
+        {
+          "version": "0.22.0",
+          "publishTimestamp": 1790520046,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.7-rc.1"
+          }
+        },
+        {
+          "version": "0.22.1",
+          "publishTimestamp": 1790567286,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.7-rc.1"
+          }
+        },
+        {
+          "version": "0.24.1",
+          "publishTimestamp": 1790609858,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.0-rc.1"
+          }
+        },
+        {
+          "version": "0.25.0",
+          "publishTimestamp": 1791567826,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.0-rc.2"
+          }
+        },
+        {
+          "version": "0.26.0",
+          "publishTimestamp": 1791904117,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.0-rc.2"
+          }
+        },
+        {
+          "version": "0.26.1",
+          "publishTimestamp": 1792118853,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.0-rc.2"
+          }
+        },
+        {
+          "version": "0.28.0-alpha.0",
+          "publishTimestamp": 1792211424,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.1-alpha.5"
+          }
+        },
+        {
+          "version": "0.28.0",
+          "publishTimestamp": 1792218651,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.1-rc.1"
+          }
+        },
+        {
+          "version": "0.28.1",
+          "publishTimestamp": 1793008660,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.1-rc.1"
+          }
+        },
+        {
+          "version": "0.28.2",
+          "publishTimestamp": 1793114071,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.1-rc.1"
+          }
+        },
+        {
+          "version": "0.30.0",
+          "publishTimestamp": 1793804506,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.2-rc.1"
+          }
+        },
+        {
+          "version": "0.30.1",
+          "publishTimestamp": 1793848027,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.2-rc.1"
+          }
+        },
+        {
+          "version": "0.31.0",
+          "publishTimestamp": 1794404920,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.2-rc.1"
+          }
+        },
+        {
+          "version": "0.31.1",
+          "publishTimestamp": 1794406078,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.2-rc.1"
+          }
+        },
+        {
+          "version": "0.32.0",
+          "publishTimestamp": 1794468141,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.2-rc.1"
+          }
+        },
+        {
+          "version": "0.32.1",
+          "publishTimestamp": 1794491586,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.2-rc.2"
+          }
+        }
+      ],
+      "description": "Better Sidebar for DSH — file tree, editor, changes, tasks and side chat in one column, separate for every conversation. Configure it in Settings → Side card (bottom-left). Also exposes a service other plugins use to register sidebar tabs and file viewers",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
+      },
+      "dist-tags": {
+        "beta": "0.12.0-beta.1",
+        "alpha": "0.28.0-alpha.0",
+        "latest": "0.32.1"
+      },
+      "metadata": {
+        "keywords": [],
         "sortKeys": {
           "downloads": 0
         }
