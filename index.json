@@ -24,16 +24,6 @@
       "name": "dshmarket",
       "versions": [
         {
-          "version": "1.71.0",
-          "publishTimestamp": 1793042161,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.7 || ^0.1.1-rc.2 || ^0.1.2-alpha.2 || ^0.2.0-rc.1 || ^0.2.1-alpha.3 || ^0.2.1-rc.1"
-          }
-        },
-        {
           "version": "1.71.1",
           "publishTimestamp": 1793043066,
           "source": {
@@ -422,6 +412,16 @@
           "engines": {
             "dsh": "^0.1.0-rc.7 || ^0.1.1-rc.2 || ^0.1.2-alpha.2 || ^0.2.0-rc.1 || ^0.2.1-alpha.3 || ^0.2.1-rc.1"
           }
+        },
+        {
+          "version": "1.80.1",
+          "publishTimestamp": 1795452578,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.7 || ^0.1.1-rc.2 || ^0.1.2-alpha.2 || ^0.2.0-rc.1 || ^0.2.1-alpha.3 || ^0.2.1-rc.1"
+          }
         }
       ],
       "description": "Visual plugin market inside DeepSeek Harness — browse, search, and one-click install community plugins. · DSH 可视化插件市场：逛一逛，点一下，装好。",
@@ -430,7 +430,7 @@
       },
       "homepage": "https://dshmarket.com",
       "dist-tags": {
-        "latest": "1.80.0"
+        "latest": "1.80.1"
       },
       "metadata": {
         "keywords": [
@@ -2812,16 +2812,6 @@
       "name": "dsh-mnemon",
       "versions": [
         {
-          "version": "0.5.14",
-          "publishTimestamp": 1790301648,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.5-rc.1 || ^0.1.6-alpha.2 || ^0.1.7-alpha.1"
-          }
-        },
-        {
           "version": "0.5.15",
           "publishTimestamp": 1790402382,
           "source": {
@@ -3210,6 +3200,16 @@
           "engines": {
             "dsh": ">=0.2.0-rc.2 <0.2.1-0 || >=0.2.1-rc.1 <0.3.0-0"
           }
+        },
+        {
+          "version": "0.5.54",
+          "publishTimestamp": 1795458750,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.2 <0.2.1-0 || >=0.2.1-rc.1 <0.3.0-0"
+          }
         }
       ],
       "description": "Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.",
@@ -3218,7 +3218,7 @@
       },
       "homepage": "https://github.com/omdsh-dev/dsh-mnemon#readme",
       "dist-tags": {
-        "latest": "0.5.53"
+        "latest": "0.5.54"
       },
       "metadata": {
         "keywords": [
@@ -5807,16 +5807,6 @@
       "name": "dsh-image-gen",
       "versions": [
         {
-          "version": "0.2.0",
-          "publishTimestamp": 1787761766,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.1.1-rc.2 <0.2.0"
-          }
-        },
-        {
           "version": "0.2.1",
           "publishTimestamp": 1787823916,
           "source": {
@@ -6115,6 +6105,13 @@
           "source": {
             "type": "npm"
           }
+        },
+        {
+          "version": "0.12.2",
+          "publishTimestamp": 1795490954,
+          "source": {
+            "type": "npm"
+          }
         }
       ],
       "description": "Bring ChatGPT-like image generation to DeepSeek Harness — Gemini, OpenAI, Seedream, DashScope, local ComfyUI & more.",
@@ -6124,7 +6121,7 @@
       },
       "homepage": "https://github.com/shanliuling/dsh-image-gen#readme",
       "dist-tags": {
-        "latest": "0.12.0"
+        "latest": "0.12.2"
       },
       "metadata": {
         "keywords": [
@@ -6699,36 +6696,6 @@
       "name": "dsh-ppt",
       "versions": [
         {
-          "version": "0.18.0",
-          "publishTimestamp": 1793065688,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.1-rc.3"
-          }
-        },
-        {
-          "version": "0.18.1",
-          "publishTimestamp": 1793067902,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.1-rc.3"
-          }
-        },
-        {
-          "version": "0.18.2",
-          "publishTimestamp": 1793088391,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.1-rc.3"
-          }
-        },
-        {
           "version": "0.18.3",
           "publishTimestamp": 1793089673,
           "source": {
@@ -7097,16 +7064,46 @@
           "engines": {
             "dsh": ">=0.2.2-rc.3"
           }
+        },
+        {
+          "version": "0.37.0",
+          "publishTimestamp": 1795460416,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.3"
+          }
+        },
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1795462634,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.3"
+          }
+        },
+        {
+          "version": "1.0.1",
+          "publishTimestamp": 1795488469,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.3"
+          }
         }
       ],
-      "description": "DeepSeek Harness 大师级演示文稿引擎与工作台：支持三模路由（有资料直出 / 零资料 8 域权威深研 / Mode C 本地多源融合+外源对标）、企业品牌宪章锁（SLOP-13/14）、41 种原生可编辑图谱（MECE 议题树/Treemap/OKR 子弹仪/三档报价/点阵地图/2.5D 等轴测/Mermaid/公式/代码）、24 主题 / 20 标杆范本、逆向导出 Excel/Word/备忘录/答辩预案/无损翻译包、企业金页库拼装与离线 R 键审阅回流。欢迎 PR 与 Issues。",
+      "description": "DeepSeek Harness 大师级演示文稿引擎与工作台：内置三层首席艺术总监提示词与 SLOP-15 反空盒门禁，支持三模路由（有资料直出 / 零资料 8 域权威深研 / Mode C 本地多源融合+外源对标）、企业品牌宪章锁（SLOP-13/14）、41 种原生可编辑图谱、24 主题 / 20 标杆范本、整卡联动 PPTX 动效与 16:9 自适应内嵌预览、逆向导出 Excel/Word/备忘录/答辩预案/无损翻译包与离线 R 键审阅回流。欢迎 PR 与 Issues。",
       "author": "stardustlc",
       "repository": {
         "url": "https://github.com/STARDUSTLC666/dsh-ppt"
       },
       "homepage": "https://github.com/STARDUSTLC666/dsh-ppt#readme",
       "dist-tags": {
-        "latest": "0.36.1"
+        "latest": "1.0.1"
       },
       "metadata": {
         "keywords": [
@@ -8398,26 +8395,6 @@
       "name": "dsh-claude-style",
       "versions": [
         {
-          "version": "0.19.5-dev.50",
-          "publishTimestamp": 1793085718,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.1.5-rc.1"
-          }
-        },
-        {
-          "version": "0.19.5",
-          "publishTimestamp": 1793086361,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.1.5-rc.1"
-          }
-        },
-        {
           "version": "0.19.6-dev.51",
           "publishTimestamp": 1793335080,
           "source": {
@@ -8796,6 +8773,26 @@
           "engines": {
             "dsh": ">=0.2.2-rc.3"
           }
+        },
+        {
+          "version": "0.22.1",
+          "publishTimestamp": 1795457324,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.3"
+          }
+        },
+        {
+          "version": "0.22.1-dev.72",
+          "publishTimestamp": 1795457362,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.3"
+          }
         }
       ],
       "description": "Claude Code Desktop theme for DeepSeek Harness (dsh) web GUI — visual & interaction overhaul",
@@ -8805,8 +8802,8 @@
       },
       "homepage": "https://github.com/Nwflower/dsh-claude-style#readme",
       "dist-tags": {
-        "latest": "0.22.0",
-        "dev": "0.22.0-dev.71"
+        "dev": "0.22.1-dev.72",
+        "latest": "0.22.1"
       },
       "metadata": {
         "keywords": [
@@ -16182,16 +16179,6 @@
       "name": "dsh-notify-me",
       "versions": [
         {
-          "version": "1.9.1",
-          "publishTimestamp": 1792500820,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6 || ^0.1.1-rc.2 || ^0.1.2-rc.1 || ^0.1.5-rc.1 || >=0.1.6-alpha.2 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0"
-          }
-        },
-        {
           "version": "1.9.2",
           "publishTimestamp": 1792507212,
           "source": {
@@ -16580,6 +16567,16 @@
           "engines": {
             "dsh": "^0.1.0-rc.6 || ^0.1.1-rc.2 || ^0.1.2-rc.1 || ^0.1.5-rc.1 || >=0.1.6-alpha.2 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0"
           }
+        },
+        {
+          "version": "1.24.0",
+          "publishTimestamp": 1795490076,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6 || ^0.1.1-rc.2 || ^0.1.2-rc.1 || ^0.1.5-rc.1 || >=0.1.6-alpha.2 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0"
+          }
         }
       ],
       "description": "离开 DSH 页面也能收到提醒：需要你操作 / 后台回复完成时发系统通知、标题标记与提示音，支持审批快捷裁决与外部推送，Web 版与桌面版均可用。",
@@ -16589,7 +16586,7 @@
       },
       "homepage": "https://github.com/chromoany/dsh-notify-me#readme",
       "dist-tags": {
-        "latest": "1.23.0"
+        "latest": "1.24.0"
       },
       "metadata": {
         "keywords": [
