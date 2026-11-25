@@ -2798,16 +2798,6 @@
       "name": "dsh-mnemon",
       "versions": [
         {
-          "version": "0.5.15",
-          "publishTimestamp": 1790402382,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.5-rc.1 || ^0.1.6-alpha.2 || ^0.1.7-alpha.1"
-          }
-        },
-        {
           "version": "0.5.16",
           "publishTimestamp": 1790435002,
           "source": {
@@ -3196,6 +3186,16 @@
           "engines": {
             "dsh": ">=0.2.0-rc.2 <0.2.1-0 || >=0.2.1-rc.1 <0.3.0-0"
           }
+        },
+        {
+          "version": "0.5.55",
+          "publishTimestamp": 1795545367,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.2 <0.2.1-0 || >=0.2.1-rc.1 <0.3.0-0"
+          }
         }
       ],
       "description": "Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.",
@@ -3204,7 +3204,7 @@
       },
       "homepage": "https://github.com/omdsh-dev/dsh-mnemon#readme",
       "dist-tags": {
-        "latest": "0.5.54"
+        "latest": "0.5.55"
       },
       "metadata": {
         "keywords": [
@@ -4976,16 +4976,6 @@
       "name": "@michengai/dsh-archive-manager",
       "versions": [
         {
-          "version": "1.0.20",
-          "publishTimestamp": 1792128043,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "0.1.2-rc.1 || 0.1.5-rc.1 || 0.1.5-rc.2 || 0.1.5-rc.3 || 0.1.7-rc.1 || 0.1.7-rc.2 || 0.2.0-rc.1 || 0.2.0-rc.2 || 0.2.1-alpha.2 || 0.2.1-alpha.3"
-          }
-        },
-        {
           "version": "1.1.0",
           "publishTimestamp": 1792252111,
           "source": {
@@ -5374,6 +5364,16 @@
           "engines": {
             "dsh": ">=0.2.2-rc.1 <0.3.0-0"
           }
+        },
+        {
+          "version": "1.5.0",
+          "publishTimestamp": 1795570475,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1 <0.3.0-0"
+          }
         }
       ],
       "description": "归档、恢复、收藏和永久删除会话，并诊断损坏的会话日志。 · Archive, restore, favorite, and permanently delete sessions, and diagnose damaged session logs.",
@@ -5383,7 +5383,7 @@
       },
       "homepage": "https://github.com/MichengAI/dsh-archive-manager#readme",
       "dist-tags": {
-        "latest": "1.4.2"
+        "latest": "1.5.0"
       },
       "metadata": {
         "keywords": [
@@ -7083,6 +7083,20 @@
           "source": {
             "type": "npm"
           }
+        },
+        {
+          "version": "5.10.15",
+          "publishTimestamp": 1795547067,
+          "source": {
+            "type": "npm"
+          }
+        },
+        {
+          "version": "5.10.16",
+          "publishTimestamp": 1795552600,
+          "source": {
+            "type": "npm"
+          }
         }
       ],
       "description": "The strongest free web search plugin for coding agents. Plug-in web search, X search, and page fetch for models without native web access. Free out of the box: no signup, no API key (Firecrawl keyless, 1,000 free credits/month)",
@@ -7092,7 +7106,7 @@
       },
       "homepage": "https://github.com/liustack/modsearch#readme",
       "dist-tags": {
-        "latest": "5.10.14"
+        "latest": "5.10.16"
       },
       "metadata": {
         "keywords": [
@@ -7115,16 +7129,6 @@
     {
       "name": "dsh-ppt",
       "versions": [
-        {
-          "version": "0.19.1",
-          "publishTimestamp": 1793238979,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.1-rc.3"
-          }
-        },
         {
           "version": "0.20.0",
           "publishTimestamp": 1793242781,
@@ -7514,6 +7518,16 @@
           "engines": {
             "dsh": ">=0.2.2-rc.3"
           }
+        },
+        {
+          "version": "1.0.4",
+          "publishTimestamp": 1795542406,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.3"
+          }
         }
       ],
       "description": "DeepSeek Harness 大师级演示文稿引擎与工作台：内置三层首席艺术总监提示词与 SLOP-15 反空盒门禁，支持三模路由（有资料直出 / 零资料 8 域权威深研 / Mode C 本地多源融合+外源对标）、企业品牌宪章锁（SLOP-13/14）、41 种原生可编辑图谱、24 主题 / 20 标杆范本、整卡联动 PPTX 动效与 16:9 自适应内嵌预览、逆向导出 Excel/Word/备忘录/答辩预案/无损翻译包与离线 R 键审阅回流。欢迎 PR 与 Issues。",
@@ -7523,7 +7537,7 @@
       },
       "homepage": "https://github.com/STARDUSTLC666/dsh-ppt#readme",
       "dist-tags": {
-        "latest": "1.0.3"
+        "latest": "1.0.4"
       },
       "metadata": {
         "keywords": [
@@ -8835,26 +8849,6 @@
       "name": "dsh-claude-style",
       "versions": [
         {
-          "version": "0.19.6-dev.51",
-          "publishTimestamp": 1793335080,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.1.5-rc.1"
-          }
-        },
-        {
-          "version": "0.19.6",
-          "publishTimestamp": 1793335673,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.1.5-rc.1"
-          }
-        },
-        {
           "version": "0.19.7-dev.52",
           "publishTimestamp": 1793710915,
           "source": {
@@ -9233,6 +9227,26 @@
           "engines": {
             "dsh": ">=0.2.2-rc.3"
           }
+        },
+        {
+          "version": "0.22.2",
+          "publishTimestamp": 1795545820,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.3"
+          }
+        },
+        {
+          "version": "0.22.2-dev.73",
+          "publishTimestamp": 1795545854,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.3"
+          }
         }
       ],
       "description": "Claude Code Desktop theme for DeepSeek Harness (dsh) web GUI — visual & interaction overhaul",
@@ -9242,8 +9256,8 @@
       },
       "homepage": "https://github.com/Nwflower/dsh-claude-style#readme",
       "dist-tags": {
-        "dev": "0.22.1-dev.72",
-        "latest": "0.22.1"
+        "dev": "0.22.2-dev.73",
+        "latest": "0.22.2"
       },
       "metadata": {
         "keywords": [
@@ -10229,16 +10243,6 @@
       "name": "dsh-unlag",
       "versions": [
         {
-          "version": "1.9.133",
-          "publishTimestamp": 1792994413,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": ">=0.2.0-rc.1"
-          }
-        },
-        {
           "version": "1.9.134",
           "publishTimestamp": 1792995924,
           "source": {
@@ -10627,6 +10631,16 @@
           "engines": {
             "dsh": ">=0.2.0-rc.1"
           }
+        },
+        {
+          "version": "1.17.11",
+          "publishTimestamp": 1795540019,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0-rc.1"
+          }
         }
       ],
       "description": "DSH 桌面端自己的刷新按钮：改插件不用重启、开久了卡了也点一下，正在进行的会话不受影响。",
@@ -10636,7 +10650,7 @@
       },
       "homepage": "https://github.com/regrevia/dsh-unlag#readme",
       "dist-tags": {
-        "latest": "1.17.10"
+        "latest": "1.17.11"
       },
       "metadata": {
         "keywords": [
@@ -16215,16 +16229,6 @@
       "name": "dsh-notify-me",
       "versions": [
         {
-          "version": "1.9.2",
-          "publishTimestamp": 1792507212,
-          "source": {
-            "type": "npm"
-          },
-          "engines": {
-            "dsh": "^0.1.0-rc.6 || ^0.1.1-rc.2 || ^0.1.2-rc.1 || ^0.1.5-rc.1 || >=0.1.6-alpha.2 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0"
-          }
-        },
-        {
           "version": "1.9.3",
           "publishTimestamp": 1792508248,
           "source": {
@@ -16613,6 +16617,16 @@
           "engines": {
             "dsh": "^0.1.0-rc.6 || ^0.1.1-rc.2 || ^0.1.2-rc.1 || ^0.1.5-rc.1 || >=0.1.6-alpha.2 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0"
           }
+        },
+        {
+          "version": "1.25.0",
+          "publishTimestamp": 1795539830,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.1.0-rc.6 || ^0.1.1-rc.2 || ^0.1.2-rc.1 || ^0.1.5-rc.1 || >=0.1.6-alpha.2 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0"
+          }
         }
       ],
       "description": "离开 DSH 页面也能收到提醒：需要你操作 / 后台回复完成时发系统通知、标题标记与提示音，支持审批快捷裁决与外部推送，Web 版与桌面版均可用。",
@@ -16622,7 +16636,7 @@
       },
       "homepage": "https://github.com/chromoany/dsh-notify-me#readme",
       "dist-tags": {
-        "latest": "1.24.0"
+        "latest": "1.25.0"
       },
       "metadata": {
         "keywords": [
